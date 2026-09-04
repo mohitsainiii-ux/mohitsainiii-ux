@@ -1,19 +1,301 @@
-# 💫 About Me:
-# 👋 Hi, I'm Mohit Saini  <br>### 🚀 Full Stack Developer | Java • Python • PHP • MySQL • DSA<br><br>I'm a passionate BCA student and fresher developer who loves building full-stack projects and learning new technologies.  <br>I have hands-on experience in **Java, Python, C++, PHP, MySQL, HTML, CSS, JavaScript**, and I actively practice **Data Structures & Algorithms (DSA)**.<br><br>---<br><br>## 🔥 Skills & Technologies<br><br>### 💻 Programming Languages  <br>- Java  <br>- Python  <br>- C++  <br>- PHP  <br>- JavaScript  <br><br>### 🌐 Web Development  <br>- HTML  <br>- CSS  <br>- JavaScript  <br>- PHP (Core + MySQL)  <br><br>### 🗄️ Databases  <br>- MySQL  <br><br>### ⚙️ Tools & Version Control  <br>- Git  <br>- GitHub  <br><br>### 📚 Core CS Skills  <br>- Data Structures & Algorithms  <br>- Object-Oriented Programming (OOP)  <br>- Problem Solving  <br><br>---<br><br>## 🏗️ Projects<br><br>### 🛒 **E-Commerce Website (PHP + MySQL)**  <br>A full-stack e-commerce platform with product listing, cart, order system and admin panel.  <br>**Tech:** PHP, MySQL, HTML, CSS, JS  <br><br>### 🎓 **Student Management System (PYTHON)**  <br>Manages students, classes, attendance and records using MySQL database.<br><br>### 🏫 **School Management System(codeigniter ,php , mysql)**  <br>Multi-module dashboard for teachers, students, classes and administration.<br><br># 🎯 My Goals  <br>- Strengthen DSA (Arrays, Linked List, Stack, Queue, Trees, Graphs)  <br>- Learn Spring Boot & Django  <br>- Become a full-stack developer  <br>- Contribute to open-source projects  <br><br>---<br><br>## 📫 Contact  <br>📧 **Email:** mohitsaini600300@gmail.com  <br>📱 **Phone:** 8094146866  <br><br>---<br><br>⭐ *If you like my work, feel free to star my repositories!*<br>
+# 👋 Hi, I'm Mohit Saini
 
+### 🤖 LLM & Generative AI Engineer | Python Developer | AI Agents | Backend Development
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit_saini_jhunjhunu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/mohit-saini-212a7627b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitsaini600300@gmail.com) 
+I'm a developer focused on **Generative AI, Large Language Models (LLMs), AI Agents, and backend development**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohitsainiii-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohitsainiii-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsainiii-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy building intelligent applications that combine **LLMs, APIs, databases, RAG, agent architectures, and Python-based data processing**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohitsainiii-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently, I'm strengthening my skills in **LLM application development, RAG systems, AI agent architecture, Python, Pandas, NumPy, APIs, databases, and backend engineering**.
+
+---
+
+## 🚀 What I'm Working On
+
+* 🤖 Generative AI & LLM applications
+* 🧠 AI Agent architectures
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🔗 LLM + API integrations
+* 🐍 Python backend development
+* 📊 Data processing with Pandas & NumPy
+* 🗄️ Database-driven applications
+* 🔐 AI application security
+* ⚙️ Backend systems and API development
+
+---
+
+## 🧠 AI & GenAI
+
+* Large Language Models (LLMs)
+* Generative AI
+* Prompt Engineering
+* AI Agents
+* Agent Architecture
+* RAG (Retrieval-Augmented Generation)
+* Vector Databases
+* Embeddings
+* Context Management
+* Memory Systems
+* Tool Calling
+* API Integration
+* AI Application Security
+
+---
+
+## 💻 Programming & Backend
+
+### Languages
+
+* 🐍 Python
+* 🐘 PHP
+* ☕ Java
+* 💻 C++
+* 🌐 JavaScript
+
+### Backend
+
+* CodeIgniter
+* PHP
+* Python
+* REST APIs
+* API Integration
+
+### Databases
+
+* MySQL
+* SQLite
+* Database Design
+* SQL
+
+---
+
+## 📊 Data & Python
+
+* NumPy
+* Pandas
+* Matplotlib
+* Data Cleaning
+* Data Processing
+* Data Analysis
+* Excel Data Processing
+
+---
+
+## 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* PHP
+* CodeIgniter
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Git
+* GitHub
+* REST APIs
+* JSON
+* Postman
+* MySQL
+* Python
+* PHP
+* CodeIgniter
+
+---
+
+## 🏗️ Projects
+
+### 🤖 AI Agent System
+
+Building an AI-agent-based application capable of:
+
+* Understanding user prompts
+* Generating answers and code
+* Integrating LLMs
+* Using external APIs
+* Working with databases
+* Retrieving information using RAG
+* Maintaining conversation context
+* Using tools through an agent architecture
+
+**Technologies:** Python, LLMs, RAG, APIs, Database, AI Agent Architecture
+
+---
+
+### 🛒 E-Commerce Website
+
+A full-stack e-commerce application with product management, cart functionality, orders, and an administration system.
+
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 🎓 Student Management System
+
+A database-driven application for managing students, classes, attendance, and student records.
+
+**Technologies:** Python, MySQL
+
+---
+
+### 🏫 School Management System
+
+A multi-module management system for handling students, teachers, classes, and administrative operations.
+
+**Technologies:** PHP, CodeIgniter, MySQL
+
+---
+
+## 📚 Currently Learning
+
+```text
+Generative AI
+      ↓
+LLMs
+      ↓
+Prompt Engineering
+      ↓
+RAG
+      ↓
+Embeddings & Vector Databases
+      ↓
+AI Agents
+      ↓
+Agent Architecture
+      ↓
+LLM + APIs + Tools
+      ↓
+Production AI Applications
+```
+
+I'm continuously improving my understanding of:
+
+* Advanced Python
+* Pandas
+* NumPy
+* Backend Development
+* REST APIs
+* LLM APIs
+* RAG Systems
+* AI Agent Architecture
+* Database Systems
+* AI Security
+
+---
+
+## 🎯 Goals
+
+* 🚀 Become an LLM / Generative AI Engineer
+* 🤖 Build production-ready AI Agents
+* 🧠 Develop advanced RAG systems
+* 🔗 Build LLM-powered backend applications
+* 🐍 Become highly proficient in Python
+* 📊 Strengthen Data & AI engineering skills
+* 🌍 Contribute to open-source projects
+* 💼 Build real-world AI products
+
+---
+
+## 📈 My Development Journey
+
+```text
+Programming
+     ↓
+Python + PHP
+     ↓
+Backend Development
+     ↓
+Databases + APIs
+     ↓
+NumPy + Pandas
+     ↓
+LLMs
+     ↓
+Generative AI
+     ↓
+RAG
+     ↓
+AI Agents
+     ↓
+LLM Engineer 🚀
+```
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [mohitsaini600300@gmail.com](mailto:mohitsaini600300@gmail.com)
+
+💼 **LinkedIn:** [Mohit Saini](https://www.linkedin.com/in/mohit-saini-212a7627b/)
+
+📸 **Instagram:** [@mohit_saini_jhunjhunu](https://instagram.com/mohit_saini_jhunjhunu)
+
+---
+
+# 💻 Tech Stack
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+### 📊 Data
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🌐 Web & Backend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitsainiii-ux\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mohitsainiii-ux\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsainiii-ux\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohitsainiii-ux\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+### ⭐ Building. Learning. Experimenting. Improving.
+
+**My goal is to build intelligent software powered by LLMs and Generative AI. 🤖🚀**
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
