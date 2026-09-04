@@ -280,7 +280,7 @@ LLM Engineer 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitsainiii-ux\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mohitsainiii-ux\&theme=dark\&hide_border=false)
+![GitHub Streak]([https://nirzak-streak-stats.vercel.app/?user=mohitsainiii-ux\&theme=dark\&hide_border=false](https://streak-stats.demolab.com/?user=mohitsainiii-ux&theme=dark&hide_border=false))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsainiii-ux\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
